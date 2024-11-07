@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="style.css">
 
-# 👋 Hi, I'm Vishwas Karale
+---
 
-### ML Software Engineer | Graduate Student at New York University
+## Summary
 
 With 4 years of experience in software engineering at Siemens and a strong foundation in machine learning and full-stack development, I'm passionate about building scalable applications and diving into complex engineering challenges. I'm currently pursuing a Master’s in Computer Engineering at NYU, specializing in Machine Learning.
 
