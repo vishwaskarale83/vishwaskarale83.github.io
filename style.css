@@ -1,0 +1,10 @@
+/* Custom styling */
+body {
+    font-family: Arial, sans-serif;
+    color: #00FF00; /* Green text for a hacker-style vibe */
+    background-color: #000000; /* Black background */
+}
+
+h1, h2, h3 {
+    color: #00FF00;
+}
