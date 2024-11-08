@@ -1,12 +1,11 @@
-<link rel="stylesheet" href="style.css">
-
+---
+layout: default
 ---
 
 ## Summary
 
 With 4 years of experience in software engineering at Siemens and a strong foundation in machine learning and full-stack development, I'm passionate about building scalable applications and diving into complex engineering challenges. I'm currently pursuing a Master’s in Computer Engineering at NYU, specializing in Machine Learning.
 
----
 
 ## 🔧 Tech Stack and Skills
 
